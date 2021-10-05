@@ -1,0 +1,13 @@
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\BACKUP\Faculdade_Impacta_-_SI\Decola Tech Avanade\DigitalInnovationOne\4 - Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
